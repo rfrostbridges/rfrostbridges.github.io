@@ -1,12 +1,8 @@
 ---
-title: Modus
+title: Modus is now Keymode
 ---
 
-# Modus
+# Modus is now Keymode
 
-A keyboard-driven, vim-style text editor for iPhone, with its own keyboard, real files in the
-Files app, and a one-off unlock after a free trial. No subscription, no advertising, no data
-collected.
-
-- [Support](support)
-- [Privacy policy](privacy)
+Modus is now called **Keymode**. This page has moved to
+<https://rfrostbridges.github.io/keymode/>.

@@ -4,4 +4,4 @@ title: Robert Frost-Bridges
 
 # Apps by Robert Frost-Bridges
 
-- [Modus](modus/), a vim-style text editor for iPhone
+- [Keymode](keymode/), a vim-style text editor for iPhone (called Modus until 17 October 2026)
