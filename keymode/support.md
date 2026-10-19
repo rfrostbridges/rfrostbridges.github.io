@@ -4,7 +4,7 @@ title: Keymode support
 
 # Keymode support
 
-Keymode (on the App Store as "Keymode: Vim-Style Editor") is a keyboard-driven, vim-style text
+Keymode (on the App Store as "Keymode: Modal Text Editor") is a keyboard-driven, vim-style text
 editor for iPhone. It is an editor only: it does not compile, run or debug code.
 
 ## Contact
