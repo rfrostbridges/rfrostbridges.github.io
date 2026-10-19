@@ -12,3 +12,4 @@ Keymode was called Modus until 17 October 2026.
 
 - [Support](support)
 - [Privacy policy](privacy)
+- [What's new](whats-new)
