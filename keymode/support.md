@@ -9,7 +9,12 @@ editor for iPhone. It is an editor only: it does not compile, run or debug code.
 
 ## Contact
 
-Email **keymode@posteo.uk**. It helps to include:
+The easiest way is from Keymode itself: open Help, and at the end tap **Get help or report a
+problem**. It opens an email to keymode@posteo.uk with a few questions to answer, and Keymode's
+version, the iOS version and the keyboard setting already filled in. Nothing from your files is
+added, and you see the whole email before sending it.
+
+You can also write to **keymode@posteo.uk** directly. It helps to include:
 
 - the app's version and build, shown in Keymode under About (for example 1.0.0 (10));
 - your iPhone model and iOS version;

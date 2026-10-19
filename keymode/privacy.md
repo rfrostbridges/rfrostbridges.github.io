@@ -4,7 +4,7 @@ title: Keymode privacy policy
 
 # Keymode privacy policy
 
-Last changed: 17 October 2026
+Last changed: 19 October 2026
 
 Keymode (on the App Store as "Keymode: Vim-Style Editor") is a text editor for iPhone, made by
 Robert Frost-Bridges, an individual developer in the United Kingdom. This page says what
@@ -51,6 +51,11 @@ passes the feedback, with the tester's email address, to the developer.
 If you email keymode@posteo.uk, your address and message are used only to answer you and to
 fix what you report. They are not shared or used for anything else, and are deleted when they
 are no longer needed for that. The mail is held by Posteo, an email provider in Germany.
+
+The **Get help or report a problem** button in Keymode's Help only opens a new email in your own
+mail app. It fills in Keymode's version, the iOS version and which keyboard setting is in use,
+and nothing else: no text or names from your files. You see the whole email, can change or delete
+any of it, and nothing is sent unless you send it.
 
 ## Children
 
