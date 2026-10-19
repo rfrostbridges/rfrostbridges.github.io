@@ -6,7 +6,7 @@ title: Keymode privacy policy
 
 Last changed: 19 October 2026
 
-Keymode (on the App Store as "Keymode: Modal Text Editor") is a text editor for iPhone, made by
+Keymode (on the App Store as "Keymode: Vim-Style Editor") is a text editor for iPhone, made by
 Robert Frost-Bridges, an individual developer in the United Kingdom. This page says what
 happens to your information when you use it.
 
