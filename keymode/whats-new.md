@@ -4,7 +4,7 @@ title: What's new in Keymode
 
 # What's new in Keymode
 
-## 1.0.0 (not yet released)
+## 1.0.0 (9 November 2026)
 
 The first release.
 
