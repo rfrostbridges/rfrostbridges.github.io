@@ -48,7 +48,7 @@ passes the feedback, with the tester's email address, to the developer.
 
 ## If you write to us
 
-If you email keymode@posteo.uk, your address and message are used only to answer you and to
+If you email robertfb-apps@posteo.uk, your address and message are used only to answer you and to
 fix what you report. They are not shared or used for anything else, and are deleted when they
 are no longer needed for that. The mail is held by Posteo, an email provider in Germany.
 
@@ -64,7 +64,7 @@ Keymode collects nothing from anyone, children included.
 ## Your rights
 
 You can ask what information the developer holds about you (normally none, or only your emails),
-and ask for it to be corrected or deleted, by writing to keymode@posteo.uk. In the United
+and ask for it to be corrected or deleted, by writing to robertfb-apps@posteo.uk. In the United
 Kingdom you may also complain to the Information Commissioner's Office: <https://ico.org.uk/>.
 
 ## Changes
