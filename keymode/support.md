@@ -50,6 +50,10 @@ Backup, or a backup to a computer), as other apps' documents are. Files you open
 are backed up wherever they live. Unsaved changes are kept as a draft, so closing Keymode loses
 nothing.
 
+Deleting Keymode from your iPhone also deletes its folder and the files in it. Before you do, copy
+anything you want to keep to iCloud Drive in the Files app. (Offload App, in the iPhone's Settings,
+keeps them.)
+
 **Does Keymode sync between devices?** Not by itself. Open a file from iCloud Drive (in Keymode,
 tap the file name at the top, then Open from Files) and Keymode edits it where it lives, so iCloud
 keeps it in step on your other devices. The same works for other apps that offer their files to
