@@ -4,7 +4,7 @@ title: What's new in Diurnall
 
 # What's new in Diurnall
 
-## 1.0.0 (not yet released)
+## 1.0 (20 November 2026)
 
 The first release.
 
